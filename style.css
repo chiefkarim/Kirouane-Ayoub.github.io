@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.profile-img {
+    border-radius: 50%; /* Make the image a circle */
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.profile-info {
+    flex-grow: 1;
+}
+
+.profile-info h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #333;
+}
+
+.profile-info p {
+    margin: 10px 0;
+    font-size: 1.2em;
+    color: #666;
+}
+
+.profile-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.profile-icons img {
+    width: 16px;  /* Adjust the width to a smaller value */
+    height: 16px; /* Adjust the height to match the width */
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+.profile-icons img:hover {
+    opacity: 1;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px #887676;
+    margin: 10px;
+    width: 200px;
+}
+
+.card .ccimg img {
+    width: 100%;
+    height: auto;
+}
+
+.card .cdesc {
+    padding: 10px;
+    font-size: 14px;
+    color: #333;
+}
+
+.card .cdesc a:hover {
+    text-decoration: underline;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.ctitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 100%; /* Set to a specific width */
+    margin: 0 auto; /* Center the content */
+    padding: 0 30px; /* Increase the horizontal padding */
+}
+
