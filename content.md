@@ -1,5 +1,7 @@
 # My Project 💼 : 
 
+- [Darija-GPT 🇩🇿🤖](https://github.com/Kirouane-Ayoub/Darija-GPT) : In this small project we aim to train a **GPT-2 model** specifically for generating **text in Algerian Darija**. Algerian Darija is a spoken dialect with **limited written resources**, making it a **unique and challenging language** to model.
+
 - [Corrective RAG (CRAG) for Document Retrieval 🕸️🔗🦜](https://github.com/Kirouane-Ayoub/Corrective-RAG) : This small project implements the **[Corrective RAG (CRAG)](https://arxiv.org/abs/2401.15884)** paper for enhancing document retrieval and question answering. 
 
 - [ReflectRAG 🕸️🦜](https://github.com/Kirouane-Ayoub/ReflectRAG) : ReflectRAG is a non-official implementation inspired by the paper **[Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)**
