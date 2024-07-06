@@ -1,4 +1,4 @@
-# My Project : 
+# My Project 💼 : 
 
 - [Corrective RAG (CRAG) for Document Retrieval 🕸️🔗🦜](https://github.com/Kirouane-Ayoub/Corrective-RAG) : This small project implements the **[Corrective RAG (CRAG)](https://arxiv.org/abs/2401.15884)** paper for enhancing document retrieval and question answering. 
 
